@@ -32,11 +32,20 @@ h1{
 }
 .form button{
     border: none;
-    background-color: #ffb9f0;
+    background-color: #ffadeb;
     margin-top: 16px;
     padding: 8px;
     font-size: 20px;
     font-weight: bold;
     cursor: pointer;
     border-radius: 4px;
+}
+.ctx{
+    width: 80%;
+    margin: 40px auto;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 16px;
+    display: flex;
+    justify-content: space-around;
 }
